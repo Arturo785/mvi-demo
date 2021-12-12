@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Arturo/Documents/Android/mvi_starter/MVIExample-Starting-Point/app/src/main/res/layout/activity_main.xml" value="0.1644021739130435" />
+        <entry key="..\:/Arturo/Documents/Android/mvi_starter/MVIExample-Starting-Point/app/src/main/res/layout/fragment_main.xml" value="0.1644021739130435" />
+        <entry key="..\:/Arturo/Documents/Android/mvi_starter/MVIExample-Starting-Point/app/src/main/res/layout/layout_blog_list_item.xml" value="0.1644021739130435" />
+        <entry key="..\:/Arturo/Documents/Android/mvi_starter/MVIExample-Starting-Point/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
